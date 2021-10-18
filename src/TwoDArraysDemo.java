@@ -18,7 +18,6 @@ public class TwoDArraysDemo {
 			}
 			System.out.println();
 		}
-		
 	}
 
 }
