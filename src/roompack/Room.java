@@ -2,7 +2,7 @@ package roompack;
 
 public class Room {
 
-	int length;
+	int length; 
 	int breadth;
 	int height;
 	int roomNo;
