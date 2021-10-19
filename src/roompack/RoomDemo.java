@@ -30,6 +30,20 @@ public class RoomDemo {
 		
 		
 		Room r3 = new Room(300, 200, 100, 101, "blue");
+		//r3.length = 700;
+		//r3.breadth = 500;
+		//r3.setLength(700);
+		//r3.setBreadth(500);
+		System.out.println(r3.getLength());
+		System.out.println(r3.getBreadth());
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
